@@ -15221,7 +15221,7 @@
 
 ⭕  DEPLOY BOTTOM BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BMW-MD)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/BMW)
 
 
 [![Find On Whatsapp ](https://img.shields.io/badge/🚘How_to_deploy-white.svg)](https://youtu.be/RHWxSmRmDo8?si=lixAs57cC_G2LVXQ)
@@ -15230,7 +15230,7 @@
 
 ⭕  DEPLOY NORMAL BOT *[ HEROKU ]*
 
-[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/devibrah/BWM-XMD)
+[![Find On Whatsapp ](https://img.shields.io/badge/🚘Click_Here-pink.svg)](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/BWM)
 
 ****
 
