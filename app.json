@@ -15202,7 +15202,7 @@
     "MODE": {
       "description": "Enter true for public. no for private",
       "required": true,
-      "value": "public"
+      "value": "true"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. no for no",
